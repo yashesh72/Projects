@@ -1,0 +1,77 @@
+/*---Nev Bar---*/
+{
+	margin: 0;
+	padding: 0;
+}
+#Navbar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+.navbar-nav li a
+{
+	/*float: right;*/
+	text-align: left;	
+}
+.navbar-nav li a:hover
+{
+	color: #007bff!important;
+}
+.navbar-nav li a:focus 
+{
+    background-color: #bfd7ff;
+}
+.navbar
+{
+	background: #fff;
+}
+.navbar-toggler
+{
+	border:none!important;
+}
+.nav-link
+{
+	color: #555!important;
+	font-weight: 600;
+	font-size: 16px;
+
+}
+#logo
+{
+	width: 150px;
+	height: 100px;
+	padding-left: 30px;
+
+}
+#Silder
+{
+	padding-left: 100px;
+	padding-right: 100px;	
+}
+.stsTesti_img
+{
+	width: 200px;
+	height: 200px;
+	padding-top: 20px;
+	border-radius:20%;
+	
+}
+.faq
+{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.footer-transparent
+{
+	background: #fff;
+	
+}
+.color
+{
+	background: #bfd7ff;
+}
